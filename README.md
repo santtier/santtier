@@ -43,12 +43,10 @@ Here are some ideas to get you started:
 
 </details>
 
-<br />
-
 <details>
   <summary>:zap: Most used languages</summary>
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=santtier&theme=react&layout=compact" />
+  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=santtier&theme=buefy&layout=compact" />
 
 </details>
 
