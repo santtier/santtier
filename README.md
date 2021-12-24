@@ -2,7 +2,7 @@
 
 [![Website](https://img.shields.io/website?label=santtier.github.io&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://santtier.github.io)
 
-Here are some ideas to get you started:
+**About me**
 
 - 🔭 I’m currently working on building a framework with Vanilla JS
 - 🌱 I’m currently learning React and Redux
